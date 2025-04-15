@@ -63,7 +63,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li>
                 <Link href="/implikasyon/esperitwalidad" className="text-oat/80 hover:text-butter transition-colors">
-                  Esperitwalidad
+                  Ispirituwalidad
                 </Link>
               </li>
               <li>
